@@ -1,52 +1,45 @@
-# SYSTEM ACCESS PROTOCOLS [EITS_V2026]
+# 🛡️ Each In The Shell (EITS)
 
-Bem-vindo ao repositório e comunidade do **EITS (Each In The Shell)**.
-Para garantir que nossa comunidade funcione bem e mantenha seu alto nível técnico, atente-se às seguintes regras que nossa entidade segue:
-
----
-
-## 🛡️ 1. ÉTICA E LEGALIDADE
 > *"We break things to fix them."*
 
-### 1.1 Zero Black Hat
-É estritamente **proibido** usar o nome ou infraestrutura do EITS para crimes cibernéticos. É proibido incentivar, ensinar ou planejar atividades ilegais (invasões não autorizadas, fraudes, etc).
-
-### 1.2 Responsible Disclosure
-Encontrou alguma vulnerabilidade na USP, em entidades estudantis ou parceiros?
-* **Reporte imediatamente para os `@root` (Diretoria).**
-* **Não vaze publicamente** antes da correção (Full Disclosure não autorizado).
-
-### 1.3 Sigilo
-As senhas dos desafios (CTF), chaves de API e dados do servidor são classificados. Compartilhar credenciais com não-membros resulta em **Banimento imediato da entidade**.
+Bem-vindo ao repositório oficial do **Each In The Shell (EITS)**, o grupo de extensão universitária focado em Segurança Ofensiva e Cibersegurança da EACH-USP. Nós estudamos vulnerabilidades, jogamos CTFs (Capture The Flag) e vivemos na linha de comando. Nosso objetivo é transformar alunos curiosos em profissionais de segurança de alto nível.
 
 ---
 
-## ⚡ 2. ORGANIZAÇÃO E FLUXO
-> *"Não toleramos passageiros."*
+## ⚙️ > SYSTEM ARCHITECTURE (Nossos Squads)
 
-### 2.1 Anti-Ghosting
-Sumir sem avisar gera **Strikes**. Entendemos a vida acadêmica, mas a comunicação é essencial.
+Nossa operação é dividida em dois esquadrões de atuação. Todo membro do EITS hackeia, mas cada Squad tem um objetivo tático diferente:
 
-### 2.2 Política de 3 Strikes (/kick)
-* **Strike 1:** Aviso verbal.
-* **Strike 2:** Conversa de alinhamento.
-* **Strike 3:** Desligamento.
-Se o semestre apertou, **avise**. Se você apenas ignorar o time, teremos que passar suas responsabilidades para outra pessoa e, no pior dos casos, proceder com a expulsão.
-
-### 2.3 Presença
-Reuniões gerais e participação nas atividades (CTFs, Eventos) são muito importantes. Caso não seja possível comparecer, **avise previamente** nos canais apropriados.
+* **🛠️ SQUAD OPS (Research & Infrastructure):** A forja. Responsável pela pesquisa profunda de vulnerabilidades, criação e manutenção da infraestrutura de servidores, desenvolvimento de ferramentas internas e arquitetura dos nossos próprios desafios de CTF.
+  
+* **📡 SQUAD INTEL (Security & Outreach):** A ponte. Responsável por transformar conhecimento técnico denso em inteligência acessível. Cuida de eventos, workshops, treinamentos de base, parcerias corporativas e conscientização de segurança.
 
 ---
 
-## 🤝 3. CULTURA E COMUNIDADE
-> *"Knowledge should be free."*
+## 🗺️ > SKILL TREE (Treinamento)
 
-### 3.1 No Gatekeeping
-Se alguém perguntar, **ensine**.
-Nossa comunidade é completamente aberta às dúvidas. Não existe "pergunta idiota". Estamos aqui para aprender, do zero ao root.
+Nossa metodologia de ensino é baseada na jornada de privilégios do sistema:
 
-### 3.2 Respeito Absoluto
-**Zero tolerância** com assédio, racismo, homofobia, machismo ou qualquer forma de discriminação. O EITS é um ambiente seguro para todos.
+1. **`[STDIN]` (Modo de Escuta):** Todo membro novo começa aqui. O foco é consumir conhecimento, resolver laboratórios guiados e quebrar suas primeiras máquinas.
+2. **`[STDOUT]` (Liderança e Produção):** Após superar os testes práticos, o membro ganha este status. O foco passa a ser produzir conhecimento (Write-ups), ministrar aulas e gerenciar a infraestrutura do grupo.
+
+🔗 **[Acesse o nosso ROADMAP OFICIAL completo aqui.](link-para-o-seu-roadmap)**
 
 ---
-*Ao contribuir com este repositório ou participar do servidor, você concorda com estes termos.*
+
+## ⚖️ > SECURITY PROTOCOLS (Regras de Engajamento)
+
+Lidamos com ferramentas poderosas. A ética é inegociável.
+
+1. **White Hat Only:** Somos o escudo, não a ameaça. Tolerância zero para cibercrime.
+2. **Responsible Disclosure:** Se acharmos uma falha real, documentamos e reportamos. Nunca exploramos para ganho pessoal.
+3. **Defend Localhost:** Fogo amigo está desativado. Não atacamos a infraestrutura da universidade, professores ou colegas. Nosso campo de batalha são os CTFs e laboratórios autorizados.
+
+---
+
+## 📡 > ESTABLISH CONNECTION
+
+Pronto para escalar seus privilégios? Conecte-se conosco:
+
+* 📸 **Instagram:** [@eachintheshell](https://instagram.com/eachintheshell)
+* 💼 **LinkedIn:** [EACH In The Shell](https://linkedin.com/company/intheshell)
