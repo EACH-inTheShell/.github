@@ -23,7 +23,7 @@ Nossa metodologia de ensino é baseada na jornada de privilégios do sistema:
 1. **`[STDIN]` (Modo de Escuta):** Todo membro novo começa aqui. O foco é consumir conhecimento, resolver laboratórios guiados e quebrar suas primeiras máquinas.
 2. **`[STDOUT]` (Liderança e Produção):** Após superar os testes práticos, o membro ganha este status. O foco passa a ser produzir conhecimento (Write-ups), ministrar aulas e gerenciar a infraestrutura do grupo.
 
-🔗 **[Acesse o nosso ROADMAP OFICIAL completo aqui.](link-para-o-seu-roadmap)**
+🔗 **[Acesse o nosso ROADMAP OFICIAL completo aqui.](https://github.com/EACH-inTheShell/docs/blob/main/ROADMAP.md)**
 
 ---
 
